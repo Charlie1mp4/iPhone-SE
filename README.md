@@ -1,7 +1,7 @@
 # iPhone-SE
-Multi-purpose bot. Forked from [BotCityDevs/iPhone-SE](https://repl.it/@BotCityDevs/iPhone-SE) and modified.
+Multi-purpose bot. Being worked on every day.
 
-Features:
+# Features:
 - mod
 - fun
 - currency
@@ -33,18 +33,21 @@ Q. Do I own most of the code?
 A. No. Parts of it I did myself but most of the bot is by Bot City Development. Check them out: https://discord.gg/W4cQkvy
 
 Q. Is it safe to modify the code?
-A. **No.** Do not modify the code unless you know 100% what you are doing. 
+A. Yes, you can use [this website](https://discordjs.guide) for code support. 
 
 Q. Is support allowed?
-A. Of course. If you need help contact me at charliewinba5@gmail.com or pull a request.
+A. Of course. If you need help contact me on Discord: Charlie.mp4#0001 or pull a request.
 
 Q. What is the bot's invite link?
 A. https://discord.com/api/oauth2/authorize?client_id=729566356634206208&permissions=8&scope=bot
 
 Q. Can you give me code.
 A. No. I do not provide extra code, you can find **heaps** at https://discordjs.guide
+
 # Hosting the bot
 You can host it off repl.it with uptimerobot, or host it off a small pc (the startup command is `node index.js`)
 
+# Changing the prefix
+Change the prefix by going to the .env file and finding `prefix=`. ***DO NOT REMOVE THE `''`!!
 
-Thanks for looking at my GitHub repo, have a nice day! :)
+Thanks for looking at my one of my GitHub repos, have a nice day! :)
