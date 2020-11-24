@@ -29,8 +29,15 @@ You can fork this and modify it in any shape or form, *just please don't violate
 2. Go to `server.js` and find a line `const prefix = "=";`. Set the `=` to your desired prefix.
 
 # FAQS
-Q. Do I own most of the code?
-A. No. Parts of it I did myself but most of the bot is by Bot City Development. Check them out: https://discord.gg/W4cQkvy
+Q. How old is the bot?
+A. uhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+Q. Self hosting doesn't work!!!!
+A. It should. If it doesn't then pull a request.
+
+Q. I am adding code but it gives me errors!
+A. you jamfart. if you see a client.(something) change the `client` to `bot`
+
 
 Q. Is it safe to modify the code?
 A. Yes, you can use [this website](https://discordjs.guide) for code support. 
