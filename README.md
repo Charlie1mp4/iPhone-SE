@@ -2,9 +2,11 @@
 Multi-purpose bot. Being worked on every day.
 
 # Widgets
-[![Discord Bots](https://top.gg/api/widget/729566356634206208.svg)](https://top.gg/bot/729566356634206208) 
 [![Discord Bots](https://top.gg/api/widget/status/729566356634206208.svg)](https://top.gg/bot/729566356634206208)
 [![Discord Bots](https://top.gg/api/widget/servers/729566356634206208.svg)](https://top.gg/bot/729566356634206208)
+[![Discord Bots](https://top.gg/api/widget/upvotes/729566356634206208.svg)](https://top.gg/bot/729566356634206208)
+[![Discord Bots](https://top.gg/api/widget/lib/729566356634206208.svg)](https://top.gg/bot/729566356634206208)
+[![Discord Bots](https://top.gg/api/widget/owner/729566356634206208.svg)](https://top.gg/bot/729566356634206208)
 
 # Features:
 - mod
